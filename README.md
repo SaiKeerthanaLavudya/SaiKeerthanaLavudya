@@ -1,20 +1,32 @@
 # About Me ✨
 
-<div align="center" style="font-family: 'Arial', sans-serif; color: #333;">
-    <h1 style="color: #4CAF50;">👋 Hi, I'm Sai Keerthana Lavudya</h1>
-    <h2>🎓 Aspiring Data Scientist and AI Researcher</h2>
-    <p style="font-size: 1.2em;">
+<div align="center" style="font-family: 'Arial', sans-serif; color: #333; max-width: 800px; margin: 0 auto;">
+    <h1 style="color: #4CAF50; font-size: 2.5em; font-weight: bold;">👋 Hello, I'm Sai Keerthana Lavudya</h1>
+    <h2 style="color: #333; font-size: 1.8em; margin-bottom: 20px;">🎓 Aspiring Data Scientist & AI Researcher</h2>
+    <p style="font-size: 1.2em; line-height: 1.6; color: #555;">
         Currently pursuing a Bachelor of Technology in <strong>Computer Science and Engineering</strong> at <br>
         <em>Indian Institute of Information Technology Vadodara International Campus DIU</em>.
     </p>
-    <hr style="border: none; border-top: 2px solid #4CAF50; width: 50%; margin: 20px auto;">
-    <h3 style="color: #555;">
+    <hr style="border: none; border-top: 3px solid #4CAF50; width: 50%; margin: 20px auto;">
+    <h3 style="color: #4CAF50; font-size: 1.5em;">
         🚀 Passionate About <strong>Data Science</strong>, <strong>Artificial Intelligence</strong>, and <strong>Machine Learning</strong>
     </h3>
-    <p style="font-size: 1.1em; max-width: 600px; margin: 0 auto;">
-        I am deeply fascinated by the transformative power of data and technology. My interests lie in uncovering patterns through <strong>Data Science</strong>, developing innovative solutions using <strong>Artificial Intelligence</strong>, and pushing boundaries with <strong>Machine Learning</strong>. Driven by curiosity and a commitment to lifelong learning, I aspire to create impactful solutions that address real-world challenges and empower decision-making.
+    <p style="font-size: 1.1em; line-height: 1.6; color: #555; max-width: 650px; margin: 0 auto;">
+        I am captivated by the immense potential of data and its ability to drive innovation and solve complex problems. My academic and personal journey has been fueled by a desire to understand the intricacies of <strong>Data Science</strong>, harness the power of <strong>Artificial Intelligence</strong> to create intelligent systems, and leverage <strong>Machine Learning</strong> to build predictive models that shape the future.
     </p>
+    <p style="font-size: 1.1em; line-height: 1.6; color: #555; max-width: 650px; margin: 20px auto;">
+        With a strong foundation in mathematics, programming, and data analysis, I am committed to exploring new technologies and methodologies. Through continuous learning, I aspire to develop impactful, data-driven solutions that will address real-world challenges, enhance decision-making processes, and transform industries.
+    </p>
+    <div>
+        <a href="https://www.linkedin.com/in/saikeerthanlavudya/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+            Connect with me on LinkedIn
+        </a>
+        <a href="mailto:saikeerthanalavudya@example.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+            Reach out via Email
+        </a>
+    </div>
 </div>
+
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
