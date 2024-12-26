@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning *Machine Learning*
 
-- 💬 Ask me about *Data Science,Python Programming, AI & Machine Learning Javascript, HTML, CSS, MYSQL*
+- 💬 Ask me about *Data Science,Python Programming, AI & Machine Learning, Javascript, HTML, CSS, MYSQL*
 
 - 📫 How to reach me *saikeerthanalavudya@gmail.com*
 
