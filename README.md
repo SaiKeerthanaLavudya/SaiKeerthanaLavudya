@@ -18,10 +18,10 @@
         With a strong foundation in mathematics, programming, and data analysis, I am committed to exploring new technologies and methodologies. Through continuous learning, I aspire to develop impactful, data-driven solutions that will address real-world challenges, enhance decision-making processes, and transform industries.
     </p>
     <div>
-        <a href="https://www.linkedin.com/in/saikeerthanlavudya/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+<a href="https://www.linkedin.com/in/sai-keerthana-lavudya21/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
             Connect with me on LinkedIn
         </a>
-        <a href="mailto:saikeerthanalavudya@example.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+        <a href="mailto:saikeerthanalavudya@gmail.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
             Reach out via Email
         </a>
     </div>
